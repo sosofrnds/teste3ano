@@ -12,3 +12,8 @@ text-align: center;
 font-size: 36px;
 color: black;
 }
+img{
+position: absolute;
+top: 50px;
+left: 100px;
+}
