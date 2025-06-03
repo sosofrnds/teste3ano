@@ -5,3 +5,10 @@ body{
 strong {
     color: rgb(0, 0, 0);
 }
+h1{
+margin:20px;
+padding:10px;
+text-align: center;
+font-size: 36px;
+color: black;
+}
