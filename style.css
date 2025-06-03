@@ -11,8 +11,8 @@ padding:10px;
 text-align: center;
 font-size: 36px;
 color: black;
-
-img{
+}
+img h1{
     position: absolute;
     top: 20px;
     left: 125px;
