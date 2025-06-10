@@ -12,4 +12,13 @@ text-align: center;
 font-size: 36px;
 color: black;
 }
+img h1{
+    position: absolute;
+    top: 20px;
+    left: 125px;
+}
+.parte1{
+    display: grid;
+    grid-template-columns: repeat(2.1);
+    gap: 10px;
 }
